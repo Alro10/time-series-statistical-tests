@@ -7,6 +7,7 @@ Statistical tests of time series using python and R.
 - https://medium.com/@kangeugine/time-series-check-stationarity-1bee9085da05
 - https://towardsdatascience.com/time-series-in-python-part-2-dealing-with-seasonal-data-397a65b74051
 - https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
+- https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
 
 
 ## Data
