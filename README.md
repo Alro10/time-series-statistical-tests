@@ -1,5 +1,5 @@
 # time-series-statistical
-Statistical tests of time series using python
+Statistical tests of time series using python and R.
 
 ## Theory with some code
 
