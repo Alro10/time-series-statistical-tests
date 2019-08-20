@@ -13,6 +13,7 @@ Statistical tests of time series using python and R.
 - https://pythonforfinance.net/2016/05/09/python-backtesting-mean-reversion-part-2/
 - https://medium.com/@constandinou.antonio/quant-post-3-1-a-guided-path-into-mean-reversion-8b33b3c279e4
 - https://www.datacamp.com/community/tutorials/finance-python-trading
+- https://seaborn.pydata.org/tutorial/distributions.html
 
 
 ## TODO
