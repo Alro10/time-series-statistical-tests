@@ -1,4 +1,6 @@
 # time-series-statistical
+[![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 Statistical tests of time series using python and R.
 
 ## Theory with some code
