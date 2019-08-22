@@ -12,6 +12,7 @@ Statistical tests of time series using python and R.
 - https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
 - https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
 - https://pythonforfinance.net/2016/05/09/python-backtesting-mean-reversion-part-2/
+- https://www.kdnuggets.com/2019/08/stationarity-time-series-data.html
 - https://medium.com/@constandinou.antonio/quant-post-3-1-a-guided-path-into-mean-reversion-8b33b3c279e4
 - https://www.datacamp.com/community/tutorials/finance-python-trading
 - https://seaborn.pydata.org/tutorial/distributions.html
