@@ -1,4 +1,5 @@
-# time-series-statistical
+# Statistical tests for Time Series
+[![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Statistical tests of time series using python and R.
