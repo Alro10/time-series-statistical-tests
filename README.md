@@ -6,7 +6,7 @@ Statistical tests of time series using python and R.
 
 ## Theory
 
-- []()
+- [Time Series trend and seasonality components](https://github.com/Alro10/time-series-statistical/blob/master/Lecture_03.pdf)
 
 ## References
 
@@ -32,5 +32,5 @@ Statistical tests of time series using python and R.
 
 ## TODO
 
-- add review theory.
+- add more theory
 - add more datasets.
