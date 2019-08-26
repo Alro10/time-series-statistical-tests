@@ -7,6 +7,7 @@ Statistical tests of time series using python and R.
 ## Theory
 
 - [Time Series trend and seasonality components](https://github.com/Alro10/time-series-statistical/blob/master/Lecture_03.pdf)
+- [Econometric course](http://web.vu.lt/mif/a.buteikis/category/practical-econometrics/practical-econometrics-ii-ii/)
 
 ## References
 
