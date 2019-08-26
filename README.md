@@ -21,5 +21,4 @@ Statistical tests of time series using python and R.
 ## TODO
 
 - add review theory.
-- add coding made on jupyter or colab.
 - add datasets.
