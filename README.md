@@ -17,8 +17,16 @@ Statistical tests of time series using python and R.
 - https://www.datacamp.com/community/tutorials/finance-python-trading
 - https://seaborn.pydata.org/tutorial/distributions.html
 
+## Datasets
+
+- https://github.com/wblakecannon/DataCamp/tree/master/22-introduction-to-time-series-analysis-in-python/data/financial-time-series-datasets
+
+- https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction/tree/master/data
+
+- https://github.com/Yorko/mlcourse.ai/tree/master/data
+
 
 ## TODO
 
 - add review theory.
-- add datasets.
+- add more datasets.
