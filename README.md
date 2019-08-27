@@ -30,6 +30,10 @@ Statistical tests of time series using python and R.
 
 - https://github.com/Yorko/mlcourse.ai/tree/master/data
 
+## Coding 
+
+-  [Statistical-basic](https://github.com/Alro10/time-series-statistical/blob/master/statistical_tests.ipynb)
+
 
 ## TODO
 
