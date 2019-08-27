@@ -32,7 +32,7 @@ Statistical tests of time series using python and R.
 
 ## Coding 
 
--  [Statistical-basic](https://github.com/Alro10/time-series-statistical/blob/master/statistical_tests.ipynb)
+-  [[Statistical-basic](https://github.com/Alro10/time-series-statistical/blob/master/statistical_tests.ipynb)]
 
 
 ## TODO
