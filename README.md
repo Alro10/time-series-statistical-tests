@@ -1,7 +1,7 @@
 # Statistical tests for Time Series
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Statistical tests of time series using python and R.
+Statistical tests of time series using Python and R.
 
 ## Theory
 
