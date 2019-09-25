@@ -1,7 +1,7 @@
-# Statistical tests for Time Series
+# Statistical tests for Time Series models
 [![PRsWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Statistical tests of time series using Python and R.
+Theory, references, datasets and coding for statistical tests for evaluating time series models. Write code in Python and R.
 
 ## Theory
 
