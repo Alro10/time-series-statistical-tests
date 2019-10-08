@@ -7,6 +7,7 @@ Theory, references, datasets and coding for statistical tests for evaluating tim
 
 - [Time Series trend and seasonality components](https://github.com/Alro10/time-series-statistical/blob/master/Lecture_03.pdf)
 - [Econometrics course](http://web.vu.lt/mif/a.buteikis/category/practical-econometrics/practical-econometrics-ii-ii/)
+- [Decomposing time series into deterministic and stochastic influences: A survey (https://www.sciencedirect.com/science/article/pii/S1051200419301289?dgcid=coauthor)
 
 ## References
 
